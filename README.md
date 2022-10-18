@@ -1,2 +1,3 @@
 # magicGame
-Game for magic leap based on magic leap examples
+Game for magic leap 1
+based on magic leap examples
