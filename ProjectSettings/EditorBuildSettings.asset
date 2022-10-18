@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Harry Potter.unity
+    guid: 336e7aec02c9c9f459a60dff91ffb71b
+  - enabled: 0
+    path: Assets/MagicLeap/Examples/Intermediate/Scenes/Planes.unity
+    guid: 5fca2d94f0384ff42b981955c16012ef
+  m_configObjects:
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: a2229fd6acef5bf4386424f37bfe79b3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
+      type: 2}
